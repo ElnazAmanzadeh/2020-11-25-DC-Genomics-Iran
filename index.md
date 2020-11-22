@@ -132,7 +132,18 @@ LOCATION
   <strong>Where:</strong>
   {{page.address}}.
   Get directions with
-  <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
+  <a href="Elnaz Amanzadeh Jajin is inviting you to a scheduled Zoom meeting.
+
+Topic: 2020-11-25-DC-Genomics-Iran
+Time: Nov 25, 2020 04:30 PM Tehran
+
+Join Zoom Meeting
+https://us04web.zoom.us/j/74859162832?pwd=dTdjRmhPSGEwaHE0WDlnUENaclhZdz09
+
+Meeting ID: 748 5916 2832
+
+
+">OpenStreetMap</a>
   or
   <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
 </p>
