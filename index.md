@@ -16,8 +16,19 @@ enddate: 2020-11-26        # machine-readable end date for the workshop in YYYY-
 instructor: ["Elnaz Amanzadeh Jajin", "Parastoo Modarres"] # boxed, comma-separated list of instructors' names as strings, like ["", ""]
 helper: ["Amirabbas Rashvand", "Mohammad Almoslemavi"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["elibio449@gmail.com","	parastoo.modarres@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+collaborative_notes: https://pad.carpentries.org/2020-11-25-DC-Genomics-Iran # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+Zoom Meeting: Elnaz Amanzadeh Jajin is inviting you to a scheduled Zoom meeting.
+
+Topic: 2020-11-25-DC-Genomics-Iran
+Time: Nov 25, 2020 04:30 PM Tehran
+
+Join Zoom Meeting
+https://us04web.zoom.us/j/74859162832?pwd=dTdjRmhPSGEwaHE0WDlnUENaclhZdz09
+
+Meeting ID: 748 5916 2832
+
+
+           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
