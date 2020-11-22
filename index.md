@@ -3,8 +3,8 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "Bioinformatics Center of Iran"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "www.bioinfiran.ir"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+venue: "Bioinformatics Center of Iran (www.bioinfiran.ir)"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+address: "https://us04web.zoom.us/j/74859162832?pwd=dTdjRmhPSGEwaHE0WDlnUENaclhZdz09"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "Iran"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "Persian"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "45"        # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -16,17 +16,7 @@ enddate: 2020-11-26        # machine-readable end date for the workshop in YYYY-
 instructor: ["Elnaz Amanzadeh Jajin", "Parastoo Modarres"] # boxed, comma-separated list of instructors' names as strings, like ["", ""]
 helper: ["Amirabbas Rashvand", "Mohammad Almoslemavi"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["elibio449@gmail.com","	parastoo.modarres@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: https://pad.carpentries.org/2020-11-25-DC-Genomics-Iran # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-Zoom Meeting: Elnaz Amanzadeh Jajin is inviting you to a scheduled Zoom meeting.
-
-Topic: 2020-11-25-DC-Genomics-Iran
-Time: Nov 25, 2020 04:30 PM Tehran
-
-Join Zoom Meeting
-https://us04web.zoom.us/j/74859162832?pwd=dTdjRmhPSGEwaHE0WDlnUENaclhZdz09
-
-Meeting ID: 748 5916 2832
-
+collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 
            # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
